@@ -1,4 +1,4 @@
-# ep_infos
+# Pad Info for Etherpad
 
 ## Installation
 
